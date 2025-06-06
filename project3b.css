@@ -1,0 +1,100 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+html,body{
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: "Lato" ,sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: #666;
+
+}
+.pimg
+{
+    background-image:url(https://wallpapers.com/images/hd/beautiful-place-pictures-4z0hjwoi8rjhlk1p.jpg);
+    min-height:100%;
+    position:relative;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.pimg1
+{
+    background-image:url(https://publish.purewow.net/wp-content/uploads/sites/2/2016/10/beautifulplaces-fb.png);
+    min-height:100%;
+}
+
+.pimg2
+{
+ background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_LcEqyjv0PjUMogE5T2jwGhVJrw0ol250Yy_u4TmfSZgvBOaBqGciOBt8X0RQAkoOY84&usqp=CAU);
+    min-height:100%;
+}
+
+.pimg3
+{
+    background-image:url(https://s.yimg.com/ny/api/res/1.2/GJ5wzWL7rkRH2xAndLWATg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MQ--/https://media.zenfs.com/en-US/homerun/time_72/b04eccec40ef2c4ac515e867ba5f0c0b);
+    min-height:100%;
+}
+
+.pimg1,
+.pimg2,
+.pimg,
+.pimg3{
+
+position:relative;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+
+}
+
+
+
+.ptext
+{
+    position: absolute;
+    top:50%;
+    width:100%;
+    text-align: center;
+    color: black;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+.textbg
+{
+    background-color: #313534;
+    color: #fff;
+    padding: 20px;
+}
+.section
+{
+    padding: 50px 80px;
+    text-align: center;
+}
+
+.section-light
+{
+    background-color: #f4f4f4;
+    color: #666;
+}
+
+.section-dark
+{
+    background-color: #282e34;
+    color: #ddd;
+}
